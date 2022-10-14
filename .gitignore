@@ -1,0 +1,5 @@
+.*.sw[po]
+/bin
+/dist
+/lib/*.jar
+/doc
